@@ -7,53 +7,57 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <style>
         body { background-color: #f8f9fa; }
-        .section { padding: 60px 0; }
+        .navbar { background-color: #343a40 !important; }
+        .container { padding-top: 80px; }
+        .section { padding: 60px 0; display: none; }
         h2 { border-bottom: 2px solid #333; padding-bottom: 10px; }
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#about">Florian Jacquetin</a>
+            <a class="navbar-brand" href="#">Florian Jacquetin</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#teaching">Teaching</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about" onclick="showSection('about')">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#resume" onclick="showSection('resume')">Resume</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#publications" onclick="showSection('publications')">Publications</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#teaching" onclick="showSection('teaching')">Teaching</a></li>
                 </ul>
             </div>
         </div>
     </nav>
+    
+    <div class="container text-center">
+        <h1>Welcome to my page</h1>
+        <p>Select a section from the navigation menu.</p>
+    </div>
 
-    <div class="container mt-5">
+    <div class="container">
         <section id="about" class="section">
             <h2>About</h2>
-            <p>Florian Jacquetin is a Data Scientist and Economist, specializing in econometrics and machine learning applied to economic data.</p>
+            <p>Bonjour et bienvenue sur mon site !<br>
+            Je suis Florian Jacquetin, macroéconomiste et data scientist. Je suis par ailleurs haut fonctionnaire (Corps de l’Insee) en service dans l’administration économique et j’enseigne à l’ENSTA (introduction à l’économie contemporaine).<br>
+            Ingénieur de cette même école (2014) et spécialisé en macroéconomie à l’ENSAE (2017), j’ai successivement accompagné les équipes de la DG Trésor (Macro1, 2017-2020) puis de l’ADEME (2020-2023). J’y ai respectivement développé les modèles macroéconomiques Mésange (Trésor/Insee) et Three-ME (Ademe/Ofce) et ai particulièrement été impliqué dans la modélisation prospective énergie-climat.<br>
+            En parallèle de mes travaux (Projections du COR, Programmation pluriannuelle de l’énergie, Stratégie nationale bas-carbone, et plus récemment stress-tests climatiques), j’ai été conduit à questionner l’adaptation de la pensée économique face aux risques modernes. Economiste keynésien et lecteur de la Théorie générale, je suis convaincu du rôle central de l’action humaine dans les fluctuations macroéconomiques. Comme son auteur, je crois davantage au rôle de la psychologie d’une société (les « esprits animaux ») qu’à l’optimisation mathématique rationnelle (même imparfaite). Mes recherches m’ont toutefois amené à réinvestiguer le rôle de l’offre dans un monde fini et soumis à de multiples disruptions (technologiques, sociales, géopolitiques).<br>
+            Au-delà de l’économie, je suis particulièrement intéressé par la statistique appliquée et la data science. Mon estimation de la sous-déclaration des accidents du travail (2017, 2023) m’a conduit à être sollicité régulièrement comme expert auprès des institutions nationales et européennes. Depuis 2022, je m’intéresse aux récents développements en intelligence artificielle et aux larges modèles de langage et leurs applications dans l’administration économique. Je suis à ce titre candidat au master « Mathématiques, Vision et Apprentissage » de l’Ecole Normale Supérieure et à une poursuite en thèse une fois ma titularisation prononcée.</p>
         </section>
-
         <section id="resume" class="section">
             <h2>Resume</h2>
             <ul>
-                <li>Co-manager of a team of statisticians</li>
-                <li>Expert in time series analysis and microsimulation</li>
+                <li>Direction de la sécurité sociale, Paris - Adjoint à la cheffe de bureau (2023-2024)</li>
+                <li>Institut des politiques publiques, Paris - Data scientist (2022-2023)</li>
+                <li>ADEME, Montrouge - Economiste (2020-2022)</li>
+                <li>DG Trésor, Paris - Economiste (2017-2020)</li>
+                <li>Assurance Maladie, Paris - Economiste statisticien (2016-2017)</li>
+                <li>EY, Paris - Consultant financier (2014-2016)</li>
+                <li>Schlumberger, Cambridge - Stage ingénieur (2014)</li>
+                <li>ONERA, Palaiseau - Stage de recherche scientifique (2013)</li>
             </ul>
         </section>
-
-        <section id="publications" class="section">
-            <h2>Publications</h2>
-            <p>Coming soon...</p>
-        </section>
-
-        <section id="teaching" class="section">
-            <h2>Teaching</h2>
-            <p>Courses and materials will be updated soon.</p>
-        </section>
     </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
