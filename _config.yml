@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_hd.png"
+  avatar           : "images/photo_hd.png"
   name             : "Florian Jacquetin"
   pronouns         : # example: "she/her"  
   bio              : "Macroéconomiste et administrateur de l'Insee, je m'intéresse à la modélisation macroéconomique et aux avancées en machine learning.""
