@@ -24,8 +24,7 @@ author:
   # Biographic information
   avatar           : "images/photo_hd.png"
   name             : "Florian Jacquetin"
-  #
-  pronouns         :  example: "she/her"  
+  #pronouns         :  example: "she/her"  
   bio              : "Macroéconomiste et administrateur de l'Insee, je m'intéresse à la modélisation macroéconomique et aux avancées en machine learning."
   location         : "Paris, France"
   employer         : "Insee"
