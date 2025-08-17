@@ -8,7 +8,6 @@ date: 2024-01-01
 location: "Palaiseau, France"
 ---
 
-Brief History, Economic schools, Microeconomics, Macroeconomics, International Trade, Labour economics, Social Protection
+## Lecture PDFs
 
-Heading 1
-======
+- [Lecture 1: Markets and Microeconomics](files/Seance1_Microeconomics_Markets.pdf){:target="_blank"}
