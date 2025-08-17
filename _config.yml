@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "fr"
 site_theme               : "default"
-title                    : "Florian Jacquetin / Academic page"
+title                    : "Florian Jacquetin"
 title_separator          : "-"
 name                     : &name "Florian Jacquetin"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo_hd.png"
-  name             : "Florian Jacquetin"
+  avatar           : "/images/photo_hd.png"
+  #name             : "Florian Jacquetin"
   #pronouns         :  example: "she/her"  
-  bio              : "Ingénieur de l'ENSTA et administrateur de l'Insee, je m'intéresse à la modélisation économique et à ses interactions avec le machine learning et l'IA."
+  bio              : "Ingénieur de l'ENSTA (2014) et de l'ENSAE (2017), administrateur de l'Insee (2024)
   location         : "Paris, France"
   employer         : "Insee"
   uri              : # URL
