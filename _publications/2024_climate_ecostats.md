@@ -7,5 +7,6 @@ date: 2009-10-01
 venue: 'Economie et Statistique / Economics and Statistics'
 paperurl: 'https://www.insee.fr/en/statistiques/fichier/8260949/03_ES543_Jacquetin-Callonnec_EN.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Jacquetin, F, and Callonnec, G. (2024). &quot;Macroeconomic Impact of Climate Damage in France.&quot; <i>Economics and Statistics 1</i>. 1(1).'
+citation: 'Jacquetin, F, and Callonnec, G. (2024). &quot;Macroeconomic Impact of Climate Damage in France.&quot; <i>Economics and Statistics 1</i>.'
 ---
+a
