@@ -1,7 +1,7 @@
 ---
 title: "Transition risks: a multi-model analysis for France (in French)"
 collection: publications
-category: policy_report
+category: policy_reports
 permalink: /publication/2022_transition_ademe
 date: 2023-03-01
 venue: 'Collection ADEME Expertises'
