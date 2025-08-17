@@ -8,6 +8,6 @@ date: 2024-01-01
 location: "Palaiseau, France"
 ---
 
-## Lecture PDFs
+## Lectures
 
-- [Lecture 1: Markets and Microeconomics](/files/Seance1_Microeconomics_Markets.pdf)
+- [Lecture 1: Markets and Microeconomics](/files/Session1_Microeconomics_Markets.pdf)
