@@ -10,4 +10,4 @@ location: "Palaiseau, France"
 
 ## Lecture PDFs
 
-- [Lecture 1: Markets and Microeconomics](files/Seance1_Microeconomics_Markets.pdf){:target="_blank"}
+- [Lecture 1: Markets and Microeconomics](/files/Seance1_Microeconomics_Markets.pdf){:target="_blank"}
