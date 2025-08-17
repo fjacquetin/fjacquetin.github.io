@@ -25,7 +25,7 @@ author:
   avatar           : "images/photo_hd.png"
   name             : "Florian Jacquetin"
   #pronouns         :  example: "she/her"  
-  bio              : "Macroéconomiste et administrateur de l'Insee, je m'intéresse à la modélisation macroéconomique et aux avancées en machine learning."
+  bio              : "Ingénieur de l'ENSTA et administrateur de l'Insee, je m'intéresse à la modélisation économique et à ses interactions avec le machine learning et l'IA."
   location         : "Paris, France"
   employer         : "Insee"
   uri              : # URL
@@ -220,12 +220,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
