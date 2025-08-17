@@ -25,7 +25,7 @@ author:
   avatar           : "/images/photo_hd.png"
   #name             : "Florian Jacquetin"
   #pronouns         :  example: "she/her"  
-  bio              : "Ingénieur de l'ENSTA (2014), ENSAE (2017), administrateur de l'Insee (2024)"
+  bio              : "Ingénieur ENSTA (2014), ENSAE (2017), administrateur Insee (2024)"
   location         : "Paris, France"
   employer         : "Insee"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "fjacquetin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

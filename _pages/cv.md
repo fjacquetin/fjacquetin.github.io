@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Diplôme d'ingénieur, ENSTA Paris, 2014
+* Advanced Master, ENSAE Paris, 2017
 * Master of Research in Automatics and Signal Processing, Supelec, 2014
-* Mastère spécialisé, ENSAE Paris, 2017
+* Diplôme d'ingénieur, ENSTA Paris, 2014
 
 Work experience
 ======

@@ -7,5 +7,4 @@ date: 2022-07-01
 venue: 'OECD Workshops'
 paperurl: 'https://www.slideshare.net/OECD_ENV/bboitierseurecooecdworkshopclimatetransitionscenariospdf'
 bibtexurl: '/files/bibtex_2022_oecd.bib'
-citation: 'Boitier et al. (2022). &quot;Implementation of NGFS Climate Scenarios in France with four multisectoral models.&quot; <i>OECD Workshops on Climate Transition Scenarios</i>.'
 ---
