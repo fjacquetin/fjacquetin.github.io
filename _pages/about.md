@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a French engineer, graduated from ENSTA Paris (2014) and ENSAE (2017), and appointed as an administrateur at INSEE (2024).
 Specialized in data science and economics, my research lies at the intersection of macroeconomics and machine learning.
 
