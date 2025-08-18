@@ -7,8 +7,6 @@ venue: "ENSTA Paris"
 date: 2024-01-01
 location: "Palaiseau, France"
 ---
-
-## Lectures
 - [Introduction](/files/Introduction.pdf)
 - [Lecture 1: Markets and Microeconomics](/files/Lecture1_Microeconomics_Markets.pdf)
 - [Lecture 2: National Accounts](/files/Lecture2_National_Accounts.pdf)
