@@ -1,10 +1,10 @@
 ---
-title: "Transition risks: a multi-model analysis for France (in French)"
+title: "Transition risks: a multi-model analysis for France"
 collection: publications
 category: policy_reports
 permalink: /publication/2023_transition_ademe
 date: 2023-03-01
-venue: 'Collection ADEME Expertises'
+venue: 'ADEME Expertises'
 paperurl: 'https://librairie.ademe.fr/societe-et-politiques-publiques/6196-risques-de-transition-analyse-multi-modeles-pour-la-france.html'
 bibtexurl: '/files/bibtex_2023_ademe.bib'
 ---
