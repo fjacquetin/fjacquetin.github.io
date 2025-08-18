@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Advanced Master, ENSAE Paris, 2017
-* Master of Research in Automatics and Signal Processing, Supelec, 2014
-* Diplôme d'ingénieur, ENSTA Paris, 2014
+* 2017: Advanced Master, Applied Economics, ENSAE Paris
+* 2014: Master of Research in Automatics and Signal Processing, Supelec
+* 2014: Diplôme d'ingénieur in Data Science, ENSTA Paris
 
 Work experience
 ======
