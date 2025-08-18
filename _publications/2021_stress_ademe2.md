@@ -1,5 +1,5 @@
 ---
-title: "Analyse de l'exercice-pilote de stress-test climatique français"
+title: "Analyse de l'exercice-pilote de stress-test climatique francais"
 collection: publications
 category: policy_reports
 permalink: /publication/2021_stress_ademe2
