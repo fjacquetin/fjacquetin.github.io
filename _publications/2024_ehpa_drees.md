@@ -1,5 +1,5 @@
 ---
-title: "Les besoins en personnel accompagnant des personnes âgées en perte d’autonomie"
+title: "Les besoins en personnel accompagnant des personnes agees en perte d sautonomie"
 collection: publications
 category: policy_reports
 permalink: /publication/2024_ehpa_dress
