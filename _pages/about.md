@@ -11,4 +11,4 @@ Specialized in data science and economics, my research lies at the intersection 
 
 Previously, I worked as a macroeconomist at the French Treasury (2017–2020) and am currently a consultant at the French Agency for Ecological Transition (2020–2026), where I develop large-scale models to generate long-term, climate-oriented economic scenarios.
 
-Don't hesitate to get in touch!
+Let's connect!
