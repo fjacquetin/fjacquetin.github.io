@@ -1,5 +1,5 @@
 ---
-title: "Hétérogeneite d'exposition entre les ménages a la hausse des prix de l'énergie. Quelles interventions possibles ?"
+title: "Hétérogeneite d'exposition entre les ménages à la hausse des prix de l'énergie. Quelles interventions possibles ?"
 collection: publications
 category: conferences
 permalink: /publication/2022_energie_ipp
