@@ -1,5 +1,5 @@
-    ---
-title: "New estimates of the phenomenon of underreporting of accidents at work in Europe"
+---
+title: "Étude du phénomène de sous-déclaration des accidents du travail en Europe selon trois méthodes statistiques : comparative, rapprochement des cas mortels, données d'enquêtes"
 collection: publications
 category: policy_reports
 permalink: /publication/2017_at_eurogip

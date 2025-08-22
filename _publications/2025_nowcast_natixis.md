@@ -1,5 +1,5 @@
 ---
-title: "France: Prevoir l activite economique en temps reel. Nowcasting T2-25"
+title: "France: Prévoir l activite économique en temps reel. Nowcasting T2-25"
 collection: publications
 category: policy_reports
 permalink: /publication/2025_nowcast_natixis
