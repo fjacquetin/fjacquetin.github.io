@@ -1,7 +1,7 @@
 ---
 title: "Use of macroeconomic modeling in public policy evaluation"
 collection: publications
-category: policy_report
+category: policy_reports
 permalink: /publication/2019_modeling_tresoreco
 date: 2019-12-01
 venue: 'Trésor Eco'

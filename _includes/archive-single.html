@@ -22,8 +22,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline"
-      style="display:flex; justify-content:space-between; align-items:center;">
-      <span>
+      style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
+      <span style="flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
         {% if post.link %}
         {{ title }} <a href="{{ base_path }}{{ post.url }}" rel="permalink">
           <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
@@ -35,7 +35,7 @@
       </span>
 
       {% if post.paperurl and post.bibtexurl %}
-      <span class="archive__item-links">
+      <span class="archive__item-links" style="white-space:nowrap; margin-left:1rem; flex-shrink:0;">
         <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.bibtexurl }}">Bibtex</a>
       </span>
       {% endif %}
