@@ -22,10 +22,13 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline"
-      style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap;">
-      <span style="flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+      style="display:flex; justify-content:space-between; align-items:center; flex-wrap:nowrap; gap:1rem;">
+
+      <!-- Titre flexible -->
+      <span style="flex:1 1 auto; min-width:0;">
         {% if post.link %}
-        {{ title }} <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+        {{ title }}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
           <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
           <span class="sr-only">Permalink</span>
         </a>
@@ -34,13 +37,14 @@
         {% endif %}
       </span>
 
+      <!-- Liens Paper/Bibtex fixes -->
       {% if post.paperurl and post.bibtexurl %}
-      <span class="archive__item-links" style="white-space:nowrap; margin-left:1rem; flex-shrink:0;">
+      <span class="archive__item-links" style="flex-shrink:0; white-space:nowrap;">
         <a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.bibtexurl }}">Bibtex</a>
       </span>
       {% endif %}
-    </h2>
 
+    </h2>
 
     {% if post.read_time %}
     <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
