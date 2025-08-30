@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Since 2024: Administrateur Insee
+* Since 2024: Administrateur Insee 
 * Since 2022: Consultant in macroeconomics (ADEME)
 * 2023 - 2024: Deputy Head in Social Policies (French Ministry of Health)
 * 2022 - 2023: Data scientist (IPP)
 * 2020 - 2022: Climate economist (ADEME)
 * 2017 - 2020: Macroeconomist (French Treasury)
-* 2016 - 2017: Economist Statistician (French Health Insurance Fund)
+* 2016 - 2017: Economist Statistician (Eurogip / French Health Insurance Fund)
